@@ -1,5 +1,5 @@
 class Ezet < Formula
-  desc "Interactive CLI to pick and attach remote tmux sessions over SSH/Eternal Terminal"
+  desc "Pick and attach remote tmux sessions over SSH and Eternal Terminal"
   homepage "https://github.com/zoo3323/ezet"
   url "https://github.com/zoo3323/ezet/archive/refs/tags/v0.1.1.tar.gz"
   sha256 "c90664bff5d205930a6dc50d56cbc599882a63a18ec4a76da3dc7d14d8d00fbf"
