@@ -1,8 +1,8 @@
 class Ezet < Formula
   desc "Pick and attach remote tmux sessions over SSH and Eternal Terminal"
   homepage "https://github.com/zoo3323/ezet"
-  url "https://github.com/zoo3323/ezet/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "c90664bff5d205930a6dc50d56cbc599882a63a18ec4a76da3dc7d14d8d00fbf"
+  url "https://github.com/zoo3323/ezet/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "4894c65f5e54f57ec123501ee8bae0d2d3fdaf65251937071498415bb026bef5"
   license "MIT"
   head "https://github.com/zoo3323/ezet.git", branch: "main"
 
